@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/User/Desktop/SLsetup/Nebula-master/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "PROTEST-setup",
+    "description": "PROTEST-setup Running Minecraft 1.21.4 (Fabric v0.18.1)",
+    "icon": "https://raw.github.com/hyeonhaeju/PROTEST/main/launcher/Licon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.1"
+  },
+  "untrackedFiles": []
+}
